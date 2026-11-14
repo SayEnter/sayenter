@@ -1,0 +1,11 @@
+{
+    "name": "sayenter/sayenter",
+    "description": "SayEnter – AI chatbot for online stores. Platform integrations (WordPress, Shopware, Sylius) coming soon.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://sayenter.com",
+    "keywords": ["chatbot", "ecommerce", "ai", "woocommerce", "shopware", "sylius"],
+    "require": {
+        "php": ">=8.3"
+    }
+}
